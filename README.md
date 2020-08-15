@@ -17,5 +17,5 @@ Container(
       )  
 
 ##Screenshot  
-<img src="https://github.com/hakanbakacak/flutter-custom-page-slider/tree/master/screen_records/red.gif" height="480px">  
-<img src="https://github.com/hakanbakacak/flutter-custom-page-slider/tree/master/screen_records/blue.gif" height="480px">  
+<img src="https://raw.githubusercontent.com/hakanbakacak/flutter-custom-page-slider/master/screen_records/red.gif" height="480px">  
+<img src="https://raw.githubusercontent.com/hakanbakacak/flutter-custom-page-slider/master/screen_records/blue.gif" height="480px">  
