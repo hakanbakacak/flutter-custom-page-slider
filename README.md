@@ -6,7 +6,7 @@ Simple Page Slider for Flutter applications.
 
 This project is a starting point for a Flutter application. To use this widget, fistly import CustomPageSlider.dart to your dart file and than add CustomSlider with container list parameter.  
 for example: 
-```
+```dart
 Container(
         color: Color(0xff07599D),
         child: Align(
